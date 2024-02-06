@@ -3,10 +3,11 @@
 If Range("U1").Value > 8 Then
 
 Columns("D:E").Hidden = False
-
+Columns("C:E").EntireColumn.AutoFit
 Else
 
 Columns("D:E").Hidden = True
+Columns("C:C").ColumnWidth = 40
 
 End If
 
