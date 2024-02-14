@@ -22,7 +22,7 @@ Public Sub mainProperty2()
     Dim NewClientSum As Long
     Dim ec_row1 As Long, ec_row2 As Long
     Dim strPassword As String
-    strPassword = "878MeRr7Ov33"
+    strPassword = "password"
     Dim count_new_clients As Long, hide_new_clients As Long, hide_new_clients2 As Long
     Dim lr_newclients As Long
     
